@@ -39,10 +39,10 @@ git clone <URL_du_dépôt>
 
 ## **4. Commandes de Base**
 
-git status : Affiche l'état des fichiers dans votre répertoire de travail.
-git add : Ajoute des fichiers à la zone de staging.
-git commit : Crée un instantané (commit) des fichiers en staged.
-git log : Affiche l'historique des commits.
-git diff : Montre les modifications entre le répertoire de travail et le dernier commit.
+  - git status : Affiche l'état des fichiers dans votre répertoire de travail.
+  - git add : Ajoute des fichiers à la zone de staging.
+  - git commit : Crée un instantané (commit) des fichiers en staged.
+  - git log : Affiche l'historique des commits.
+  - git diff : Montre les modifications entre le répertoire de travail et le dernier commit.
 
 
